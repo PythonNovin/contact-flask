@@ -1,9 +1,14 @@
+# Contacts
+Manage contacts with flask and api
+
+---
 ## Installation
 
-```Windows
+```windows
 pip install -r requirements.txt
 ```
 
 ```linux
 pip3 install -r requirements.txt
 ```
+---
